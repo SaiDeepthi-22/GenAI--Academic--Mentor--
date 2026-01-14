@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("GenAI Academic Mentor")
 
-question = st.text_input("Ask your doubt:")
+question = st.text_input("Ask your question or topic your confused about:")
 
 if st.button("Get Explanation"):
     if question != "":
