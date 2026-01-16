@@ -48,10 +48,10 @@ Then it uses a **Transformer model (`google/flan-t5-base`)** to generate respons
 
 ### 1️ Clone the Repository
 ```bash
-git clone https://github.com/your-username/emotion-aware-genai-mentor.git
+https://github.com/SaiDeepthi-22/GenAI--Academic--Mentor--
 ```
 ```bash
-cd emotion-aware-genai-mentor
+cd GenAI--Academic--Mentor--
 ```
 ```bash
 pip install -r requirements.txt
@@ -95,21 +95,18 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-**Samtham Sai Deepthi**
+- **Samtham Sai Deepthi**
 Aspiring AI Engineer | GenAI Learner | Developer
-```
-```
-**Samtham Sai Divya**
+
+- **Samtham Sai Divya**
 Aspiring Software Engineer | CSE Student | Web Developer 
-```
-```
-**Vemula Sai Vaishnavi**  
+
+- **Vemula Sai Vaishnavi**  
 AI/ML Enthusiast | GenAI Learner | Student Developer
-```
-```
-**D.Charani**
+
+- **D.Charani**
 Creating Smart Systems | AI/ML Learner | Student 
 
  Passionate about building AI-driven educational tools that combine  
