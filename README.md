@@ -107,7 +107,7 @@ Aspiring Software Engineer | CSE Student | Web Developer
 AI/ML Engineer | GenAI Learner | Student Developer  
 
 **D. Charani**  
-Creating Smart Systems | AI/ML Learner | Tech innovator  
+Creating Smart Systems | AI/ML Learner | Tech Innovator  
  
 
 
