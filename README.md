@@ -54,6 +54,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
+
 ## 🔮 Future Modules
 
 - Voice-Based Mentor**  
